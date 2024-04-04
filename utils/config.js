@@ -6,5 +6,5 @@ export const config = {
   roleType: "1",
   sessionPassword: "",
   displayName: "test",
-  sessionIdleTimeoutMins: 10,
+  sessionIdleTimeoutMins: 0,
 };
